@@ -29,7 +29,6 @@ public class Win {
                break;
             }
         }
-
         return rsl;
     }
 }
